@@ -1,0 +1,3 @@
+C:/Users/Nano/Downloads/PabloStuff/projectZero/build/CMakeFiles/template.dir
+C:/Users/Nano/Downloads/PabloStuff/projectZero/build/CMakeFiles/edit_cache.dir
+C:/Users/Nano/Downloads/PabloStuff/projectZero/build/CMakeFiles/rebuild_cache.dir

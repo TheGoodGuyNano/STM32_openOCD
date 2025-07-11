@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.h": "c",
+        "*.c": "c"
+    },
+    "cmake.sourceDirectory": "C:/Users/Nano/Downloads/PabloStuff/projectZero/project"
+}

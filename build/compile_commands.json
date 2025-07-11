@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/Nano/Downloads/PabloStuff/projectZero/build",
+  "command": "C:\\PROGRA~2\\ARMGNU~1\\142BCE~1.3RE\\bin\\AR19DD~1.EXE -IC:/Users/Nano/Downloads/PabloStuff/projectZero/project -g -o CMakeFiles\\template.dir\\main.c.obj -c C:\\Users\\Nano\\Downloads\\PabloStuff\\projectZero\\project\\main.c",
+  "file": "C:/Users/Nano/Downloads/PabloStuff/projectZero/project/main.c",
+  "output": "C:/Users/Nano/Downloads/PabloStuff/projectZero/build/CMakeFiles/template.dir/main.c.obj"
+}
+]
